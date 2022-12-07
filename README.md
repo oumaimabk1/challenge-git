@@ -1,5 +1,3 @@
-
-
 # challenge-git
 
 > #### The first 3 lines of my story!
