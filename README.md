@@ -1,11 +1,11 @@
-
 # challenge-git
 
 > #### The first 3 lines of my story!
+>
 > - Revenue was off the chart.
 > - Profits were higher than ever.
+>
 >  *Everything* is going according to **plan**.
-
 ## test !!!!!
 1. Étape 1 : create my branch
 2. Étape 2 : testing
@@ -26,4 +26,8 @@
 
 Hello World
 
+Hello Universe
+Voici ma ligne a moi
+Et ma troisieme ligne
 
+Et encore une ligne en VSC
